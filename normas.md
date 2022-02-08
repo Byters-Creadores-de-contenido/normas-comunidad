@@ -19,6 +19,8 @@ Este grupo es exclusivo para creadores de contenido de programación, electróni
 3. Compartir contenido inapropiado o explícito en el grupo.
 4. Compartir información sensible de algún miembro de la comunidad (datos personales y bancarios, contraseñas de correo electrónico y domicilio)
 5. Hacer amenazas, hostigamiento, intimidación e invasión a la privacidad.
+6. Generar polémica sobre algún tema en la comunidad.
+7. Enviar mensajes inapropiados en la comunidad.
 
 ## Lo que se debe hacer en alguno de estos casos 📝
 
